@@ -4,7 +4,7 @@ import Calendar from "./components/Calendar";
 
 function App() {
   return (
-    <div className="container mx-auto p-6 bg-gray-100 min-h-screen">
+    <div className="w-screen mx-auto p-6 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold text-center mb-6"></h1>
       <Calendar />
     </div>
